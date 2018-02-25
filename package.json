@@ -2,7 +2,7 @@
   "name": "beta_site_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thavoo.github.io/react_site/",
+  "homepage": "https://thavoo.github.io/beta_site_react/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
